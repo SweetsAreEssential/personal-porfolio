@@ -7,9 +7,9 @@
 ## 👤 IDENTITY
 | | |
 |--- |--- |
-| **Full Name** | [วัชรพล ดวงกองเงิน] |
-| **Student ID** | [673380290-9] |
-| **Section** | [2] |
+| **Full Name** | วัชรพล ดวงกองเงิน |
+| **Student ID** | 673380290-9 |
+| **Section** | 2 |
 | **KKU-MAIL** | [Vacharapoln.d@kkumail.com] |
 
 ---
