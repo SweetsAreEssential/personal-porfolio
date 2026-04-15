@@ -24,16 +24,10 @@
 
 ---
 ### 📝 **[Assignments](./Assignment/)**
-* [Personal Essay](./Assignment/Personal-Essay.pdf)
-* [Assignment 2](./Assignment/Assignment-2.pdf)
-* [Week 2 Sample (Packet Tracer File)](./Assignment/week2_sample1_673380039-7.pkt)
-* [Assignment 4](./Assignment/Assignment-4.pdf)
+* คลิกเพื่อดูงานส่วนตัว
   
 ### 🧪 **[Lab Reports](./Lab/)**
-* [LAB 1](./Assignment/LAB-1.pdf)
-* [LAB 2](./Assignment/LAB-2.pdf)
-* [LAB 4](./Assignment/LAB-4.pkt)
-* [LAB 5](./Assignment/Network-Lab5.pdf)
+* คลิกเพื่อดูงานกลุ่มในห้องปฎิบัติการ
   
 ###  [FINAL PROJECT](./FinalProject/README.md)
 **Project Name: `Tran-SpaceS-Communication`**
