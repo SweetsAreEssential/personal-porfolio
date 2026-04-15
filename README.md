@@ -30,10 +30,10 @@
 * [Assignment 4](./Assignment/Assignment%204.pdf)
   
 ### 🧪 **[Lab Reports](./Lab/)**
-* [LAB 1](./Assignment/LAB%1.pdf)
-* [LAB 2](./Assignment/LAB%2.pdf)
-* [LAB 4](./Assignment/LAB%4.pkt)
-* [LAB 5](./Assignment/LAB%5.pdf)
+* [LAB 1](./Assignment/LAB 1.pdf)
+* [LAB 2](./Assignment/LAB 2.pdf)
+* [LAB 4](./Assignment/LAB 4.pkt)
+* [LAB 5](./Assignment/LAB 5.pdf)
   
 ###  [FINAL PROJECT](./FinalProject/README.md)
 **Project Name: `Tran-SpaceS-Communication`**
