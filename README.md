@@ -25,10 +25,10 @@
 ---
 ### 📝 **[Assignments](./Assignments/)**
 * คลิกเพื่อดูงานส่วนตัว
-* [📄 Personal-Essay.pdf](./Assignment/Personal-Essay.pdf)
-* [📄 Assignment-2.pdf](./Assignment/Assignment-2.pdf)
-* [📄 Assignment-3.pdf](./Assignment/Assignment-3.pdf)
-* [📄 Assignment-4.pdf](./Assignment/Assignment-4.pdf)
+* [📄 Personal-Essay.pdf](./Assignments/Personal-Essay.pdf)
+* [📄 Assignment-2.pdf](./Assignments/Assignment-2.pdf)
+* [📄 Assignment-3.pdf](./Assignments/Assignment-3.pdf)
+* [📄 Assignment-4.pdf](./Assignments/Assignment-4.pdf)
 * [🎮 Week 2 Sample (Packet Tracer File)](./Assignment/week2_sample1_673380290-9.pkt)
   
 ### 🧪 **[Lab Reports](./Lab/)**
