@@ -32,7 +32,7 @@
 ###  [FINAL PROJECT](./FinalProject/README.md)
 **Project Name: `Tran-SpaceS-Communication`**
 
-### 💻 [NETWORKPROGRAMMING2025](/https://github.com/SweetsAreEssential/networkprogramming2025)
+### 💻 [NETWORKPROGRAMMING2025]([/https://github.com/SweetsAreEssential/networkprogramming2025](https://github.com/SweetsAreEssential/networkprogramming2025))
 บันทึกการทดลองปฏิบัติการรายสัปดาห์ (Week 01 - 10)
 * **Highlights**:
     * `Week 08`: Opportunistic Routing (Probabilistic Decisions)
