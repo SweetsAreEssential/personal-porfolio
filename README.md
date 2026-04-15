@@ -23,7 +23,7 @@
 | **Packet Tracer Mastery** | ![PT](https://img.shields.io/badge/Cisco-Packet_Tracer-green?style=for-the-badge&logo=cisco) | [View Files](./NETACAD-Courses/Getting_Started_with_Cisco_Packet_Tracer_certificate_vacharapoln-d-kkumail-com_08e8086c-cfcb-49d2-9509-082a6f56f4b7.pdf) |
 
 ---
-### 📝 **[Assignments](./Assignment/)**
+### 📝 **[Assignments](./Assignments/)**
 * คลิกเพื่อดูงานส่วนตัว
   
 ### 🧪 **[Lab Reports](./Lab/)**
