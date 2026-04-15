@@ -23,21 +23,18 @@
 | **Packet Tracer Mastery** | ![PT](https://img.shields.io/badge/Cisco-Packet_Tracer-green?style=for-the-badge&logo=cisco) | [View Files](./NETACAD-Courses/Getting_Started_with_Cisco_Packet_Tracer_certificate_vacharapoln-d-kkumail-com_08e8086c-cfcb-49d2-9509-082a6f56f4b7.pdf) |
 
 ---
-
-##  Personal Assignments
-*แบบฝึกหัดและการบ้าน*
-* [Personal Essay](./Assignment/Personal Essay.pdf)
-* [Assignment 2](./Assignment/Assignment 2.pdf)
+### 📝 **[Assignments](./Assignment/)**
+* [Personal Essay](./Assignment/Personal%20Essay.pdf)
+* [Assignment 2](./Assignment/Assignment%202.pdf)
 * [Week 2 Sample (Packet Tracer File)](./Assignment/week2_sample1_673380039-7.pkt)
-* [Assignment 4](./Assignment/Assignment 4.pdf)
-
-##  LAB Assignment
-*งานให้ห้องปฎิบัติการแบบกลุ่ม*
-* [LAB 1](./Assignment/LAB 1.pdf)
-* [LAB 2](./Assignment/LAB 2.pdf)
-* [LAB 4](./Assignment/LAB 4.pkt)
-* [LAB 5](./Assignment/Network Lab5.pdf)
-
+* [Assignment 4](./Assignment/Assignment%204.pdf)
+* 
+### 🧪 **[Lab Reports](./Lab/)**
+* [LAB 1](./Assignment/LAB%201.pdf)
+* [LAB 2](./Assignment/LAB%202.pdf)
+* [LAB 4](./Assignment/LAB%204.pkt)
+* [LAB 5](./Assignment/Network%20Lab5.pdf)
+* 
 ###  [FINAL PROJECT](./FinalProject/README.md)
 **Project Name: `Tran-SpaceS-Communication`**
 
