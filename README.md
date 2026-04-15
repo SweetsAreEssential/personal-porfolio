@@ -28,13 +28,13 @@
 * [Assignment 2](./Assignment/Assignment%202.pdf)
 * [Week 2 Sample (Packet Tracer File)](./Assignment/week2_sample1_673380039-7.pkt)
 * [Assignment 4](./Assignment/Assignment%204.pdf)
-* 
+  
 ### 🧪 **[Lab Reports](./Lab/)**
 * [LAB 1](./Assignment/LAB%201.pdf)
 * [LAB 2](./Assignment/LAB%202.pdf)
 * [LAB 4](./Assignment/LAB%204.pkt)
 * [LAB 5](./Assignment/Network%20Lab5.pdf)
-* 
+  
 ###  [FINAL PROJECT](./FinalProject/README.md)
 **Project Name: `Tran-SpaceS-Communication`**
 
